@@ -1,0 +1,10 @@
+{
+  "name": "git-flow-release-project",
+  "version": "0.1.0",
+  "description": "Git-flow project start, release and update cycle",
+  "author": "userconcept <userconcept@yandex.ru> (https://userconcept.ru)",
+  "homepage": "https://github.com/userconcept/git-flow-release-project",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
