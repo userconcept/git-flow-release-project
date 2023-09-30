@@ -1,6 +1,6 @@
 {
   "name": "git-flow-release-project",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Git-flow project start, release and update cycle",
   "author": "userconcept <userconcept@yandex.ru> (https://userconcept.ru)",
   "homepage": "https://github.com/userconcept/git-flow-release-project",
